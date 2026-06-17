@@ -1,0 +1,15 @@
+{
+	"name": "factorypr",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e434e0fe-5fec-42e7-83ea-cfc0a7b9ca25",
+		"tenantId": "dd9298dc-63af-4ed8-9ecd-a64bf03b1a1c"
+	}
+}
