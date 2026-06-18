@@ -10,8 +10,8 @@
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
-			"userName": "Azurepr",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFDMUZFMzI3LUNENDItNEQzNi05QzkyLTkzN0U3QjRCRjBBMl9iODRkNmVlNC0wZDI4LTQxMjYtYWQxNi0zZTA3YWEyYjJhNjYiDQp9"
+			"userName": "azureprdbserver",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFDMUZFMzI3LUNENDItNEQzNi05QzkyLTkzN0U3QjRCRjBBMl9lYjE4MWY1YS0wYmZkLTQ2NjctOGM4Ny0yYWEzNWI4NWU0MmEiDQp9"
 		}
 	}
 }
