@@ -1,0 +1,12 @@
+{
+	"name": "AzureSqlpr",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabasePR",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
